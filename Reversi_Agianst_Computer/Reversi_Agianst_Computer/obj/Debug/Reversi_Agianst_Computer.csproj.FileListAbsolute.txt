@@ -1,0 +1,6 @@
+C:\Ariel\MyTargilim\Reversi_Agianst_Computer\Reversi_Agianst_Computer\bin\Debug\Reversi_Agianst_Computer.exe.config
+C:\Ariel\MyTargilim\Reversi_Agianst_Computer\Reversi_Agianst_Computer\bin\Debug\Reversi_Agianst_Computer.exe
+C:\Ariel\MyTargilim\Reversi_Agianst_Computer\Reversi_Agianst_Computer\bin\Debug\Reversi_Agianst_Computer.pdb
+C:\Ariel\MyTargilim\Reversi_Agianst_Computer\Reversi_Agianst_Computer\obj\Debug\Reversi_Agianst_Computer.exe
+C:\Ariel\MyTargilim\Reversi_Agianst_Computer\Reversi_Agianst_Computer\obj\Debug\Reversi_Agianst_Computer.pdb
+C:\Ariel\MyTargilim\Reversi_Agianst_Computer\Reversi_Agianst_Computer\obj\Debug\Reversi_Agianst_Computer.csprojResolveAssemblyReference.cache
